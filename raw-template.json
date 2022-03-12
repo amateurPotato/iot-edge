@@ -23,7 +23,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_L8s_v2",
+      "defaultValue": "Standard_L16s_v2",
       "metadata": {
         "description": "VM size"
       }
